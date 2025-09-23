@@ -55,43 +55,28 @@
 ### Android
 
 - 视频
-    - [Android Healthcare Project](https://www.youtube.com/watch?v=9CkpMm-n5iA)
-    - [Built a basketball scores App](https://www.udacity.com/course/android-basics-user-input--ud836)
+    - [Ticket Booking app Android Studio Project (Firebase & Kotlin)](https://www.youtube.com/watch?v=N24NrBuqEoQ)
     - [Food App Android Design](https://www.youtube.com/watch?v=9nWcPPHBzMk)
-    - [Making Weather App in Android Studio](https://www.youtube.com/watch?v=q7NF-2gtfEU)
     - [Creating Chatting Application in Android Studio Using Kotlin](https://www.youtube.com/watch?v=8Pv96bvBJL4)
 
 ### Cloud Platform
 
 - Google Cloud Platform
     - Backend
+    - [Build an LLM and RAG-based Chat Application using AlloyDB and LangChain](https://www.cloudskillsboost.google/focuses/93570?parent=catalog)
+    - [Building Resilient Streaming Analytics Systems on Google Cloud](https://www.cloudskillsboost.google/course_templates/52)
+    - [Building Fitness-Driven dApps: Streaming Google Fit Data with W3bstream](https://www.cloudskillsboost.google/focuses/79112?parent=catalog)
     - [Build a BI Dashboard Using Looker Studio and BigQuery](https://www.cloudskillsboost.google/catalog_lab/1738)
     - [Building a serverless DevOps pipeline for Salesforce with Cloud Build](https://cloud.google.com/architecture/building-a-serverless-devops-pipeline-for-salesforce)
     - [Build a document processing pipeline with Workflows](https://cloud.google.com/document-ai/docs/workflows)
     - [Building an ML vision analytics solution with Dataflow and Cloud Vision API](https://cloud.google.com/architecture/building-a-vision-analytics-solution)
-    - [Build and visualize demand forecast predictions using Datastream, Dataflow, BigQuery ML, and Looker](https://cloud.google.com/architecture/build-visualize-demand-forecast-prediction-datastream-dataflow-bigqueryml-looker)
-    - [Build a smart API to predict customer propensity to purchase by using Apigee, BigQuery ML, and Cloud Spanner](https://cloud.google.com/architecture/build-smart-api-predict-customer-purchase-apigee-bigquery-ml-cloud-spanner/deployment)
-    - [Building multi-architecture container images for IoT devices](https://cloud.google.com/architecture/building-multi-architecture-container-images-iot-devices-tutorial)
-    - [Continuous delivery pipelines with Spinnaker and GKE](https://www.cloudskillsboost.google/focuses/552?parent=catalog)
     - [Creating Custom Interactive Dashboards with Bokeh and BigQuery](https://matematika.org/clouds/google/qwiklabs/data-science-on-google-cloud-platform-machine-learning/creating-custom-interactive-dashboards-with-bokeh-and-bigquery/)
-    - [Creating a CI/CD pipeline with Azure Pipelines and Google Kubernetes Engine](https://cloud.google.com/architecture/creating-cicd-pipeline-vsts-kubernetes-engine)
-    - [Creating a unified app analytics platform using Firebase, BigQuery, and Looker](https://cloud.google.com/architecture/creating-unified-app-analytics-platform)
-    - [Deploy a CI/CD pipeline for data-processing workflows](https://cloud.google.com/architecture/cicd-pipeline-for-data-processing/deployment)
     - Machine Learning
+    - [Detect Manufacturing Defects Using Visual Inspection AI](https://www.cloudskillsboost.google/course_templates/644)
+    - [Building Demand Forecasting with BigQuery ML](https://www.cloudskillsboost.google/focuses/16547?parent=catalog)
     - [Analyzing Movie Posters in BigQuery with Remote Models](https://www.cloudskillsboost.google/catalog_lab/31374)
-    - [Architecture of a machine learning system for near real-time item matching](https://cloud.google.com/architecture/real-time-item-matching)
-    - [Building a Fraud Detection Model with Vertex AI AutoML](https://www.cloudskillsboost.google/catalog_lab/4336)
-    - [Building a secure anomaly detection solution using Dataflow, BigQuery ML, and Cloud Data Loss Prevention](https://cloud.google.com/architecture/building-anomaly-detection-dataflow-bigqueryml-dlp)
-    - [Building a k-means clustering model for market segmentation by using BigQuery ML ](https://cloud.google.com/architecture/building-k-means-clustering-model)
     - [Building an ML vision analytics solution with Dataflow and Vision AI API](https://cloud.google.com/architecture/building-a-vision-analytics-solution)
-    - [Categorizing audio content using machine learning](https://cloud.google.com/architecture/categorizing-audio-files-using-ml)
-    - [Detecting anomalies in financial transactions by using AI Platform, Dataflow, and BigQuery](https://cloud.google.com/architecture/detecting-anomalies-in-financial-transactions)
     - Mobile
-    - [Build an Android App Using Firebase and the App Engine Flexible Environment](https://cloud.google.com/architecture/mobile-firebase-app-engine-flexible)
-    - [Build an iOS App Using Firebase and the App Engine Flexible Environment](https://cloud.google.com/architecture/mobile-firebase-app-engine-flexible-ios)
-    - [Build a Mobile App Using Compute Engine and REST](https://cloud.google.com/architecture/mobile-compute-engine-rest)
-    - [Build a Mobile App Using Google Compute Engine and gRPC](https://cloud.google.com/architecture/mobile-compute-engine-grpc)
-    - [Detecting anomalies in financial transactions by using AI Platform, Dataflow, and BigQuery](https://cloud.google.com/architecture/detecting-anomalies-in-financial-transactions)
 
 - Amazon Web Services
     - Server
